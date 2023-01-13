@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(18, 16, 16) !important;
+}
+.tabless{
+  
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  margin-top: 5%;
+}
+html{
+  color: white !important;
+}
+div.container > h1{
+  display: flex;
+  color: #ffffff;
+  margin: 100px;
+  justify-content: center;
+}
+.h1-main{
+    
+  
+ font-size: 60px;
+ display: flex;
+ margin: 20px ;
+ margin-bottom: 100px;
+  justify-content: center;
+  color: #ffffff;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ff00de, 0 0 80px #ff00de, 0 0 50px #ff00de, 0 0 30px #ff00de, 0 0 30px #ff00de;
+}
+.sss::before{
+  content: "Go Somewhere";
+}
